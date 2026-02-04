@@ -1,35 +1,49 @@
-# HrznLabs
+# HrznLabs Ecosystem
 
-Horizon Protocol is a decentralized coordination layer for real-world missions. This org contains the protocol core, SDKs, docs, and client apps.
+Horizon Protocol is a decentralized coordination layer for real-world missions. This organization contains the protocol core, SDKs, docs, and client apps.
 
-## Core Repos
+## 📂 Core Repositories
 
-- `horizon` - Monorepo (contracts, service, mobile, shared, dashboard)
-- `horizon-contracts` - Foundry contracts and deployed addresses
-- `horizon-sdk` - TypeScript SDK
-- `horizon-docs` - Internal docs (Docusaurus)
-- `horizon-protocol-docs` - Public docs (Docusaurus)
+- **[horizon](https://github.com/HrznLabs/horizon)** - Main Monorepo (contracts, service, mobile, shared, dashboard)
+- **[horizon-contracts](https://github.com/HrznLabs/horizon-contracts)** - Standalone Foundry contracts and deployed addresses
+- **[horizon-sdk](https://github.com/HrznLabs/horizon-sdk)** - TypeScript SDK for reliable protocol integration
+- **[horizon-docs](https://github.com/HrznLabs/horizon-docs)** - Internal documentation (Docusaurus)
+- **[horizon-protocol-docs](https://github.com/HrznLabs/horizon-protocol-docs)** - Public developer documentation
+- **horizon-cursor-kit** - (Internal) Documentation and context for AI Agents
 
-## Client Apps
+## 📱 Client Applications
 
-- `horizon-miniapp` - Mini app for Base/Farcaster clients
-- `horizon-website` - Marketing website
+- **[horizon-miniapp](https://github.com/HrznLabs/horizon-miniapp)** - Mini app for Base/Farcaster ecosystem
+- **[horizon-website](https://github.com/HrznLabs/horizon-website)** - Essential marketing website
 
-## Quick Links
+## 🏗️ Verticals & R&D
 
-- Contracts: `horizon-contracts/DEPLOYED_ADDRESSES.md`
-- Service API: `horizon/packages/service` (Swagger at `/docs` when running locally)
-- Mobile app: `horizon/packages/mobile`
+Horizon is designed to support vertical-specific implementations:
 
-## Getting Started
+- **Verticals** (Internal): Specialized implementations for **iTake** (Food Delivery), **ridesDAO** (Ride Sharing), and **BuildDao** (Construction).
+- **R&D** (Internal): Research projects including traditional payment rails integration.
+
+## 🤖 AI Development
+
+This ecosystem is maintained with the assistance of **OpenClaw (OpenClaw-Sandbox)**, an autonomous AI agent.
+
+## 🚀 Getting Started
+
+To get started with the main development monorepo:
 
 ```bash
-# clone monorepo
-https://github.com/HrznLabs/horizon.git
+git clone https://github.com/HrznLabs/horizon.git
+cd horizon
+yarn install
+yarn docker:up
+yarn dev
 ```
 
-Then follow the setup in `horizon/README.md`.
+## 🔗 Quick Links
 
-## Contact
+- **Public Docs**: [docs.horizon.io](https://docs.horizon.io)
+- **GitHub**: [github.com/HrznLabs](https://github.com/HrznLabs)
 
-- GitHub: https://github.com/HrznLabs
+## 📞 Contact
+
+For access or inquiries, please reach out to the core team.
