@@ -43,7 +43,3 @@ yarn dev
 
 - **Public Docs**: [docs.horizon.io](https://docs.horizon.io)
 - **GitHub**: [github.com/HrznLabs](https://github.com/HrznLabs)
-
-## 📞 Contact
-
-For access or inquiries, please reach out to the core team.
