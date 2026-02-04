@@ -9,7 +9,6 @@ Horizon Protocol is a decentralized coordination layer for real-world missions. 
 - **[horizon-sdk](https://github.com/HrznLabs/horizon-sdk)** - TypeScript SDK for reliable protocol integration
 - **[horizon-docs](https://github.com/HrznLabs/horizon-docs)** - Internal documentation (Docusaurus)
 - **[horizon-protocol-docs](https://github.com/HrznLabs/horizon-protocol-docs)** - Public developer documentation
-- **horizon-cursor-kit** - (Internal) Documentation and context for AI Agents
 
 ## 📱 Client Applications
 
