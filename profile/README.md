@@ -4,16 +4,9 @@ Horizon Protocol is a decentralized coordination layer for real-world missions. 
 
 ## 📂 Core Repositories
 
-- **[horizon](https://github.com/HrznLabs/horizon)** - Main Monorepo (contracts, service, mobile, shared, dashboard)
 - **[horizon-contracts](https://github.com/HrznLabs/horizon-contracts)** - Standalone Foundry contracts and deployed addresses
 - **[horizon-sdk](https://github.com/HrznLabs/horizon-sdk)** - TypeScript SDK for reliable protocol integration
-- **[horizon-docs](https://github.com/HrznLabs/horizon-docs)** - Internal documentation (Docusaurus)
 - **[horizon-protocol-docs](https://github.com/HrznLabs/horizon-protocol-docs)** - Public developer documentation
-
-## 📱 Client Applications
-
-- **[horizon-miniapp](https://github.com/HrznLabs/horizon-miniapp)** - Mini app for Base/Farcaster ecosystem
-- **[horizon-website](https://github.com/HrznLabs/horizon-website)** - Essential marketing website
 
 ## 🏗️ Verticals & R&D
 
