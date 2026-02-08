@@ -15,10 +15,6 @@ Horizon is designed to support vertical-specific implementations:
 - **Verticals** (Internal): Specialized implementations for **iTake** (Food Delivery), **ridesDAO** (Ride Sharing), and **BuildDao** (Construction).
 - **R&D** (Internal): Research projects including traditional payment rails integration.
 
-## 🤖 AI Development
-
-This ecosystem is maintained with the assistance of **OpenClaw (OpenClaw-Sandbox)**, an autonomous AI agent.
-
 ## 🚀 Getting Started
 
 To get started with the main development monorepo:
