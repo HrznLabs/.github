@@ -29,5 +29,5 @@ yarn dev
 
 ## 🔗 Quick Links
 
-- **Public Docs**: [docs.horizon.io](https://docs.horizon.io)
+- **Public Docs**: (https://horizon-docs-public.vercel.app/)
 - **GitHub**: [github.com/HrznLabs](https://github.com/HrznLabs)
