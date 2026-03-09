@@ -4,7 +4,7 @@ Horizon Protocol is a decentralized coordination layer for real-world missions. 
 
 ## Highlights
 
-- **HRZN Token** -- Governance and utility token with a fixed 1B supply on Base. Five utilities: governance voting, staking (USDC yield via sHRZN vault), fee discounts, stake-to-work eligibility, and buyback-and-burn. Fee distribution splits rewards across stakers, guilds, treasury, and resolvers.
+- **HRZN Token (Testnet)** -- Token economics are designed and deployed on Base Sepolia testnet. Fixed 1B supply with five planned utilities: governance voting, staking yield, fee discounts, stake-to-work eligibility, and buyback-and-burn. Token launch is planned post-mainnet, after the protocol generates revenue.
 - **iTake** -- The first live vertical: decentralized food delivery launching in Lisbon and Porto. Uses the same escrow, reputation, and payment primitives as the core protocol, wrapped in a courier-friendly mobile experience.
 - **Multi-platform** -- Native mobile app (Expo), Farcaster + Base App miniapp, admin dashboard, and public marketing site all powered by a shared NestJS backend.
 
